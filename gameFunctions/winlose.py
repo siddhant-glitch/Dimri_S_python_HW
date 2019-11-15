@@ -3,8 +3,7 @@ from gameFunctions import winlose, gameVars
 # define a python function that takes an argument
 def winorlose(status): 
 	# status will be either won or lost - you're passing this in as an argument
-	print("called win or lose")
-	print("************************")
+	print("********************************")
 
 	print("You", status + "! Would you like to play again?")
 
