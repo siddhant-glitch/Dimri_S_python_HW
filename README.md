@@ -5,7 +5,7 @@ A player who decides to play rock will beat another player who has chosen scisso
 The player is given the choice to select from rock, paper, and scissors.
  The player has to enter ‘rock’, ‘paper’ or ‘scissors’ for his choice.
 
-Clone the project, navigate to the correct directory- cd directory name-and run the game.py file in a Python 3 Terminal window for macOS/Linux. 
+Clone the project, navigate to the correct directory- cd directory name-and run the game.py file in a [Python 3](https://www.python.org/ "Python Homepage")  Terminal window for macOS/Linux. 
 
 Choose your weapon wisely!
 
