@@ -6,16 +6,16 @@ from gameFunctions import winlose, gameVars
 while gameVars.player is False:
 	# set gameVars.player to True
 	print("**********************************")
-	print("gameVars.Computer lives: ", gameVars.computer_lives, "/5\n")
-	print("gameVars.Player lives: ", gameVars.player_lives, "/5\n")
+	print("Computer lives: ", gameVars.computer_lives, "/5\n")
+	print("Player lives: ", gameVars.player_lives, "/5\n")
 	print("Choose your weapon!\n")
 	print("**********************************")
 
 	gameVars.player = input("choose rock, paper or scissors: ")
 	gameVars.player = gameVars.player.lower()
 
-	print("gameVars.computer chose ", gameVars.computer, "\n")
-	print("gameVars.player chose ", gameVars.player, "\n")
+	print("computer chose ", gameVars.computer, "\n")
+	print("player chose ", gameVars.player, "\n")
 
 	if gameVars.player == "quit":
 		exit()
