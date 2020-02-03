@@ -1,0 +1,184 @@
+@charset "UTF-8";
+/*CSS Doc */
+
+body {
+	background: whitesmoke;
+	
+}
+
+.hidden{
+	display: none;
+}
+
+.container{
+	width: 843px;
+	background-color: floralwhite;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+#topbar{
+  background-color: rgb(0, 0, 0);
+  width: 1550px;
+  height: 14px;
+  margin-bottom: 10px;
+}
+
+#header{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+#logo{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 278px;
+  height: 123px;
+}
+#mainnav{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 291px;
+  height: 33px;
+}
+
+#promoimage{
+  margin: 10px;
+  background-color: rgb(0, 0, 0);
+  width: 822px;
+  height: 298px;
+}
+
+#promo{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+#promoimage2{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 482px;
+  height: 265px;
+}
+
+#promotext{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 330px;
+  height: 265px;
+}
+
+#promotext2{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 822px;
+  height: 84px;
+  margin: 10px;
+}
+
+#productcontainer{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.box{
+	display: flex;
+	flex-direction: column;
+}
+
+.product{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 255px;
+  height: 276px;
+  margin-bottom: 20px;
+}
+.text{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 255px;
+  height: 74px;
+}
+#footerNav {
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 291px;
+  height: 33px;
+  margin: 10px;
+}
+
+
+/*PAGE2*/
+
+#contact{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 325px;
+  height: 73px;
+  margin: 10px;
+}
+#contacttext{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 599px;
+  height: 41px;
+  margin: 10px;
+}
+#form{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 755px;
+  height: 556px;
+  margin: 10px;
+}
+#submitbutton{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 167px;
+  height: 62px;
+  margin: 10px 0px 0px 290px;
+}
+
+.contactbottomnav{
+  border-width: 1px;
+  border-color: rgb(0, 0, 0);
+  border-style: solid;
+  background-color: rgb(0, 0, 0);
+  width: 291px;
+  height: 33px;
+  margin: 10px;
+  margin-top: 70px;
+}
